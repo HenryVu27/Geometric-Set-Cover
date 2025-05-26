@@ -1,7 +1,7 @@
 # A Survey of the Geometric Set Cover Problem with Unit Disks in the Plane
 
 **Author:** Henry Vu
-**Date:** May 26, 2025
+**Date:** April 29, 2025
 
 ## Abstract
 
